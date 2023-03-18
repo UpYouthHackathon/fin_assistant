@@ -1,3 +1,4 @@
 [submodule "client"]
 	path = client
 	url = https://github.com/UpYouthHackathon/fin_assistant_frontend.git
+	branch = master
